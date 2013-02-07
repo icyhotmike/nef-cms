@@ -42,7 +42,7 @@ function doLogin($userName,$userPass) {
 	
 	@mysql_free_result($result);
 }
-
+echo "what?";
 /* get categories 
 function getCats() {
 	$catChild=array();
